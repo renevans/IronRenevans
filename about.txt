@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I recently walked the Camino Frances
 to Santiago in Spain
+=======
+
+>>>>>>> d90ce3ae7645970d722f17945ddd2ff795351b21
